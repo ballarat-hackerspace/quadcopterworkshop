@@ -9,10 +9,10 @@ If they don't have a transmitter yet, xbox controller can work.
 Build Order (to flesh out)
 ==========================
 Copy in order. From memory it was
-Day 1: Basic Transmitter usage and Simulator Setup
-Day 2: ESC Flashing and setup (motors)
-Day 3: Flight control board
-Day 4: Transmitter setup and Polishing
+* Day 1: Basic Transmitter usage and Simulator Setup
+* Day 2: ESC Flashing and setup (motors)
+* Day 3: Flight control board
+* Day 4: Transmitter setup and Polishing
 
 Speech
 ======
